@@ -1,7 +1,8 @@
 #include <stdio.h>
 /**
- * main - A program that prints the sixe of various types on the computer it is compiled and run on
- * Return 0 (Success)
+ * main - A program that prints the sixe of various types 
+ * on the computer it is compiled and run on..
+ * Return: Always 0.
  */
 int main(void)
 {
